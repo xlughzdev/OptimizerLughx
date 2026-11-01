@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Lughx Optimizer Pro" width="120" />
-  <h1>LUGHX OPTIMIZER PRO</h1>
+  <h1>LUGHX OPTIMIZER</h1>
   <p><b>Giải Pháp Tối Ưu Hiệu Năng Hệ Thống, Giảm Độ Trễ & Tăng Tốc Gaming Toàn Diện</b></p>
 
   <p>
@@ -33,12 +32,12 @@
 
 ### Bước 1: Tải xuống
 1. Nhấn vào mục **[Releases](../../releases/latest)** ở góc phải màn hình (hoặc nút **Tải Xuống** ở đầu trang).
-2. Tại phần **Assets**, nhấn vào file **`LughxOptimizerPro.exe`** (hoặc **`LughxOptimizerPro.zip`**) để tải về máy.
+2. Tại phần **Assets**, nhấn vào file **`LughxOptimizer.exe`** (hoặc **`LughxOptimizer.zip`**) để tải về máy.
 3. Nếu tải bản `.zip`, hãy nhấn chuột phải vào file và chọn **Extract Here (Giải nén tại đây)**.
 
 ### Bước 2: Khởi chạy với quyền Quản trị viên (Administrator)
 Để phần mềm có thể can thiệp tối ưu hệ thống và dịch vụ Windows, bạn cần mở bằng quyền Admin:
-1. Nhấn chuột phải vào file **`LughxOptimizerPro.exe`**.
+1. Nhấn chuột phải vào file **`LughxOptimizer.exe`**.
 2. Chọn **Run as administrator** *(Chạy với tư cách quản trị viên)* -> Nhấn **Yes**.
 
 > **Lưu ý nếu hiện thông báo xanh của Windows (Windows protected your PC):**
